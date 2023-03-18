@@ -25,9 +25,9 @@ java.exe -p "somethingtamWindowsbin" -m windows/app.Framework
 ```
 If one builds a jar with the application, this jar is added to the module path:
 ```
-java.exe -p windows.jar -m windows/app.
+java.exe -p windows.jar -m windows/app.Frame
 ```
-Frame JavaFX is a separate runtime that requires a separate installation. Therefore, the command that starts the application must take into account the location of the modules provided by this runtime. This command usually takes the form of: 
+JavaFX is a separate runtime that requires a separate installation. Therefore, the command that starts the application must take into account the location of the modules provided by this runtime. This command usually takes the form of: 
 
 ```
 2libjavafx.graphics.jar;E:Javajavafx-sdk-17.0.2libjavafx.media.jar;E:Javajavafx-sdk-17.0.2libjavafx. swing.jar;E:Javavafx-sdk-17.0.2libjavafx.web.jar;E:Javavafx-sdk-17.0.2libjavafx-swt.jar" -m SimpleFX/application.Main 
