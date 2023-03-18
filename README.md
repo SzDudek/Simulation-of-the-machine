@@ -15,12 +15,17 @@ The machine is placed in the x,y coordinate system. The machine consists of two 
 
 **Application Setup:**
 
-The application to be built is intended to be modular. Therefore, appropriate dependency entries should appear in its module-info.java descriptor. If SWING classes are used, this will be: module windows { requires java.desktop; } while if JavaFX classes are used, this will be: ```module SimpleFX { requires javafx.controls; requires javafx.fxml;
+The application to be built is intended to be modular. Therefore, appropriate dependency entries should appear in its module-info.java descriptor. If SWING classes are used, this will be: module windows { requires java.desktop; } while if JavaFX classes are used, this will be:
+```module SimpleFX { requires javafx.controls; requires javafx.fxml;
 opens application to javafx.graphics, javafx.fxml;} 
 ```
 Since the SWING classes belong to the standard JDK distribution the command that launches the application does not need to correct the module path. If you place the compiled classes of the application in the "somethingWindows" directory, the command will take the form:
-
-```java.exe -p "somethingtamWindowsbin" -m windows/app.Framework If one builds a jar with the application, this jar is added to the module path: java.exe -p windows.jar -m windows/app.
+```
+java.exe -p "somethingtamWindowsbin" -m windows/app.Framework 
+```
+If one builds a jar with the application, this jar is added to the module path:
+```
+java.exe -p windows.jar -m windows/app.
 ```
 Frame JavaFX is a separate runtime that requires a separate installation. Therefore, the command that starts the application must take into account the location of the modules provided by this runtime. This command usually takes the form of: 
 
