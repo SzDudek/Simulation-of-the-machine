@@ -16,7 +16,8 @@ The machine is placed in the x,y coordinate system. The machine consists of two 
 **Application Setup:**
 
 The application to be built is intended to be modular. Therefore, appropriate dependency entries should appear in its module-info.java descriptor. If SWING classes are used, this will be: module windows { requires java.desktop; } while if JavaFX classes are used, this will be:
-```module SimpleFX { requires javafx.controls; requires javafx.fxml;
+```
+module SimpleFX { requires javafx.controls; requires javafx.fxml;
 opens application to javafx.graphics, javafx.fxml;} 
 ```
 Since the SWING classes belong to the standard JDK distribution the command that launches the application does not need to correct the module path. If you place the compiled classes of the application in the "somethingWindows" directory, the command will take the form:
