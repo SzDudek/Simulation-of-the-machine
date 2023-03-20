@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="unnamed" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8858873b-7890-4604-a1d3-315fe442876d" name="Changes" comment="Save before new artifact">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_win_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_win_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab04_pop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/lab04_pop_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/Main.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/Main.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/Manipulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/Manipulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/SymObj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/SymObj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/VelocityCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/VelocityCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/application.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/application.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module-info.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IjYr2QRgVUERF14LzP2bbgBjyC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="G:/javafx/javafx-sdk-19/lib" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Wszystko\studia\3sem\JP\lab04_pop\src\main\java\App" />
+      <recent name="E:\Wszystko\studia\3sem\JP\lab04_pop\src\main\java" />
+      <recent name="E:\Wszystko\studia\3sem\JP\lab04_pop\src\application" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.Test [compile]">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.Main" />
+      <module name="lab04_pop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test [compile]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="compile" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Maven.Test [compile]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8858873b-7890-4604-a1d3-315fe442876d" name="Changes" comment="" />
+      <created>1670696746350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670696746350</updated>
+      <workItem from="1670696747626" duration="4274000" />
+      <workItem from="1670706447989" duration="1229000" />
+      <workItem from="1670709038098" duration="82000" />
+      <workItem from="1670709408304" duration="2000" />
+      <workItem from="1670710060203" duration="155000" />
+      <workItem from="1670710712223" duration="64000" />
+      <workItem from="1670711053888" duration="154000" />
+      <workItem from="1670772905348" duration="110000" />
+      <workItem from="1671199724581" duration="504000" />
+      <workItem from="1671666093796" duration="2792000" />
+      <workItem from="1671836233941" duration="2864000" />
+      <workItem from="1672100397794" duration="4864000" />
+      <workItem from="1672220717537" duration="9000" />
+      <workItem from="1672231014037" duration="136000" />
+      <workItem from="1672340072514" duration="1835000" />
+      <workItem from="1672351453302" duration="665000" />
+      <workItem from="1672425674745" duration="254000" />
+      <workItem from="1673041790858" duration="49000" />
+      <workItem from="1673217290708" duration="579000" />
+      <workItem from="1679131451487" duration="4581000" />
+      <workItem from="1679150860640" duration="4402000" />
+      <workItem from="1679162749075" duration="877000" />
+      <workItem from="1679163733641" duration="256000" />
+      <workItem from="1679164022928" duration="145000" />
+      <workItem from="1679174321963" duration="110000" />
+      <workItem from="1679176231594" duration="604000" />
+      <workItem from="1679253397707" duration="657000" />
+      <workItem from="1679254096396" duration="5000" />
+      <workItem from="1679254144962" duration="162000" />
+      <workItem from="1679260144133" duration="3251000" />
+      <workItem from="1679326882638" duration="650000" />
+      <workItem from="1679327583826" duration="3202000" />
+      <workItem from="1679331248728" duration="2160000" />
+    </task>
+    <task id="LOCAL-00001" summary="ENG fix, test with modules">
+      <created>1679158865051</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679158865051</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ENG fix, test with modules" />
+    <MESSAGE value="try" />
+    <MESSAGE value="Save before new artifact" />
+    <option name="LAST_COMMIT_MESSAGE" value="Save before new artifact" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

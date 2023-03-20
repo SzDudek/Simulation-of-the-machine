@@ -1,7 +1,7 @@
 /**
  * @author Szymon Dudek 10.12.2022
  */
-package Application;
+package app;
 
 import javafx.application.Application;
 import javafx.application.Platform;
