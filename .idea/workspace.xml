@@ -9,35 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8858873b-7890-4604-a1d3-315fe442876d" name="Changes" comment="Save before new artifact">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_win_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_win_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab04_pop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/lab04_pop_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Application/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Application/Main.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/Main.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Application/Manipulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/Manipulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Application/SymObj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/SymObj.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Application/VelocityCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/VelocityCalc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Application/application.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/application.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/module-info.java" beforeDir="false" />
-    </list>
+    <list default="true" id="8858873b-7890-4604-a1d3-315fe442876d" name="Changes" comment="Commit after maven config" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +42,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="G:/javafx/javafx-sdk-19/lib" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
@@ -182,7 +154,7 @@
       <workItem from="1679260144133" duration="3251000" />
       <workItem from="1679326882638" duration="650000" />
       <workItem from="1679327583826" duration="3202000" />
-      <workItem from="1679331248728" duration="2160000" />
+      <workItem from="1679331248728" duration="2462000" />
     </task>
     <task id="LOCAL-00001" summary="ENG fix, test with modules">
       <created>1679158865051</created>
@@ -191,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679158865051</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit after maven config">
+      <created>1679333611028</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679333611029</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,7 +203,8 @@
     <MESSAGE value="ENG fix, test with modules" />
     <MESSAGE value="try" />
     <MESSAGE value="Save before new artifact" />
-    <option name="LAST_COMMIT_MESSAGE" value="Save before new artifact" />
+    <MESSAGE value="Commit after maven config" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit after maven config" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
